@@ -17,7 +17,7 @@ This project analyzes **54,966 patient admission records** to evaluate **hospita
 ![alt text](/Dashboard_image.png)
 
 ### 🎬 Interactive Dashboard Walkthrough
-![Dashboard Demo](/Project_GIF.gif)
+![Dashboard Demo](/Project_Video.mp4)
 
 
 ## 📁 Repository Structure
